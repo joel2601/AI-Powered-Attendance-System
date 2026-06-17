@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment files
+.env
+
+# Generated attendance data
+attendance.csv
+
+# Trained face encodings
+encodings.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
